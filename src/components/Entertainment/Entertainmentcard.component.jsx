@@ -15,7 +15,6 @@ const EntertainmentCard = (props) => {
   );
 };
 
-
 const EntertainmentCardSlider = () => {
   const EntertainmentImage = [
     "https://in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MjQwKyBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300/workshops-collection-202007231330.png",
@@ -73,6 +72,3 @@ const EntertainmentCardSlider = () => {
 };
 
 export default EntertainmentCardSlider;
-
-
-
